@@ -6,7 +6,7 @@
 - <b>[Spotify Song Data Analysis](https://github.com/AnalyzerArik/Spotify-Song-Data-Exploratory-Data-Analysis)</b>
 - <b>[Gym Member and Exercise Data Analysis](https://github.com/AnalyzerArik/Gym-Member-and-Exercise-Data-Analysis-ML-and-Visualization-focus-)</b>
 
-<h2>Certifications:</h2>
+<h2> :ledger: Certifications:</h2>
 
 - <b>Google Data Analytics Professional Certificate</b>
 - <b> IBM Data Science Professional Certificate</b>
