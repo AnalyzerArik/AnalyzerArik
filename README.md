@@ -4,9 +4,12 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>[Spotify Song Data Analysis](https://github.com/AnalyzerArik/Spotify-Song-Data-Exploratory-Data-Analysis)</b>
 
 <h2>Certifications:</h2>
+
+- <b>Goodle Data Analytics Professional Certificate</b>
+- <b> IBM Data Science Professional Certificate</b>
   
 <h2> 🤳 Connect with me:</h2>
 
