@@ -5,6 +5,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>[Spotify Song Data Analysis](https://github.com/AnalyzerArik/Spotify-Song-Data-Exploratory-Data-Analysis)</b>
+- <b>[Gym Member and Exercise Data Analysis](https://github.com/AnalyzerArik/Gym-Member-and-Exercise-Data-Analysis-ML-and-Visualization-focus-)</b>
 
 <h2>Certifications:</h2>
 
