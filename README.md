@@ -14,6 +14,8 @@
   
 <h2> 🤳 Connect with me:</h2>
 
+- <b> [LinkedIn](linkedin.com/in/arikmyers)
+
 [linkedin]: https://linkedin.com/in/arikmyers
 
 <!--
