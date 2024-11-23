@@ -9,7 +9,7 @@
 
 <h2>Certifications:</h2>
 
-- <b>Goodle Data Analytics Professional Certificate</b>
+- <b>Google Data Analytics Professional Certificate</b>
 - <b> IBM Data Science Professional Certificate</b>
   
 <h2> 🤳 Connect with me:</h2>
