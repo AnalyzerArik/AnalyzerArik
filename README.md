@@ -1,5 +1,4 @@
-<h1>Hey, I'm Arik! </h1>
-  
+<h1>Welcome, I'm Arik! </h1>  
 <br/> <a href="https://www.linkedin.com/in/arikmyers/">Business Analyst, Data Analyst</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
