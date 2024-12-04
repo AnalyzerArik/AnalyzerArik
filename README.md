@@ -5,11 +5,12 @@
 
 - <b>[Spotify Song Data Analysis](https://github.com/AnalyzerArik/Spotify-Song-Data-Exploratory-Data-Analysis)</b>
 - <b>[Gym Member and Exercise Data Analysis](https://github.com/AnalyzerArik/Gym-Member-and-Exercise-Data-Analysis-ML-and-Visualization-focus-)</b>
+- <b>[Kansas City, MO Crime Data Analysis](https://github.com/AnalyzerArik/Kansas-City-Missouri-2024-Crime-Data-Analysis-)</b>
 
 <h2> :ledger: Certifications:</h2>
 
 - <b>Google Data Analytics Professional Certificate</b>
-- <b> IBM Data Science Professional Certificate</b>
+- <b>IBM Data Science Professional Certificate</b>
   
 <h2> 🤳 Connect with me:</h2>
 
