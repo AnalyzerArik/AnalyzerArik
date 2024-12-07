@@ -14,9 +14,7 @@
   
 <h2> 🤳 Connect with me:</h2>
 
-- <b> [LinkedIn](linkedin.com/in/arikmyers)
-
-[linkedin]: https://linkedin.com/in/arikmyers
+- <b> [LinkedIn](https://www.linkedin.com/in/arikmyers/)
 
 <!--
 **AnalyzerArik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
